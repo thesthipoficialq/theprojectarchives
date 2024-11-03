@@ -1,0 +1,14 @@
+[
+    {
+        "name": "programa1",
+        "install_command": "sudo apt install programa1 -y",
+        "uninstall_command": "sudo apt remove programa1 -y",
+        "info_url": "https://api.github.com/repos/usuario/programa1"
+    },
+    {
+        "name": "programa2",
+        "install_command": "sudo snap install programa2",
+        "uninstall_command": "sudo snap remove programa2",
+        "info_url": "https://api.github.com/repos/usuario/programa2"
+    }
+]
